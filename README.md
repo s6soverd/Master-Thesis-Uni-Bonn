@@ -1,9 +1,10 @@
 ## Measuring the Sensitivity of Parameter Estimates to Estimation Moments In the paper “Testing for Altruism and Social Pressure in Charitable Giving”: A Replication Project
-## Master Thesis, University of Bonn, June, 2022
+#### Master Thesis, University of Bonn, June, 2022
 
 
 
 GitHub is unable to render the jupyter notebook files. Below, code for reduced-form estimation can be viewed using nbviewer
+
 ---
 <a href="https://nbviewer.jupyter.org/github/s6soverd/Master-Thesis-Uni-Bonn/blob/main/Part_1.ipynb"
    target="_parent">
@@ -20,6 +21,7 @@ GitHub is unable to render the jupyter notebook files. Below, code for reduced-f
 ---
 
 Structural-form Estimation, Sensitivity Analysis, and Partial-Derivative Based local sensitivity analysis can be viewed using the below nbviewer link
+
 ---
 <a href="https://nbviewer.jupyter.org/github/s6soverd/Master-Thesis-Uni-Bonn/blob/main/Part_2.ipynb"
    target="_parent">
